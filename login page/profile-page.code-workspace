@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../salah-app/salah-app/fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "profile-page"
+	}
+}
